@@ -1,0 +1,16 @@
+{
+    "name": "com.eak.damagesystem.runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a267f3e407e82bb4eaa457dc2c6cf654"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
