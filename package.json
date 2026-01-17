@@ -1,0 +1,13 @@
+{
+    "name": "com.eak.damagesystem",
+    "version": "1.0.0",
+    "displayName": "Eakrawi Damage System",
+    "description": "Module to do damaging system in combat mechanic",
+    "unity": "2021.3",
+    "author": {
+        "name": "Eakrawi Chaisuriya"
+    },
+    "dependencies": {
+        "com.eak.charactermovement": "https://github.com/JohnsClever/com.eak.charactermovement.git#v1.0.3"
+    }
+}
